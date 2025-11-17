@@ -8,6 +8,7 @@ applications:
     ENABLE_SIGNUP: "False"
     WEBUI_SECRET_KEY: "12324324432"
     WEBUI_NAME: Tanzu Platform
+    OFFLINE_MODE: True
   instances: 1
   memory: 2G
   services:
